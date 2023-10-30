@@ -2,9 +2,9 @@
   {
     "name": "Realist",
     "modifier": 1.0,
-    "productionCostModifier": 1.0,
+    "productionCostModifier": 3.0,
     "goldCostModifier": 1.0,
-    "scienceCostModifier": 3,
+    "scienceCostModifier": 5,
     "cultureCostModifier": 3,
     "faithCostModifier": 2,
     "improvementBuildLengthModifier": 1.0,
